@@ -9,4 +9,4 @@ My plan:
 - Have 2 types of shapes on the screen: stars and triangles.
 - Have the breathe in and out.
 - The shapes are moving around the screen at the same time, and when they hit each other they bounce off? <- this might be hard to do since they have to do both conditions at the same time.
-- if a key is tapped the color of the objects change
+- if a key is tapped the program resets
