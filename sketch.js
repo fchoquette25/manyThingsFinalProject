@@ -15,7 +15,8 @@ function setup() {
   }
 }
 
-
+function draw() {
+  background(30); 
   for (let i = 0; i < circles.length; i++) {
     let circle = circles[i];
 
